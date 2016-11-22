@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+  <name>reachability_map</name>
+  <version>0.0.0</version>
+  <description>The or_bridge package</description>
+  <maintainer email="calder.pg@gmail.com">Calder Phillips-Grafflin</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>sdf_tools</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>sdf_tools</run_depend>
+
+</package>

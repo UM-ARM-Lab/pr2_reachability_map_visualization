@@ -1,0 +1,7 @@
+ RaveGetEnvironment(1).GetKinBody('pr2').GetJoint('r_shoulder_pan_joint'),		27
+ RaveGetEnvironment(1).GetKinBody('pr2').GetJoint('r_shoulder_lift_joint'),		28
+ RaveGetEnvironment(1).GetKinBody('pr2').GetJoint('r_upper_arm_roll_joint'),	29
+ RaveGetEnvironment(1).GetKinBody('pr2').GetJoint('r_elbow_flex_joint'),		30
+ RaveGetEnvironment(1).GetKinBody('pr2').GetJoint('r_forearm_roll_joint'),		31
+ RaveGetEnvironment(1).GetKinBody('pr2').GetJoint('r_wrist_flex_joint'),		32
+ RaveGetEnvironment(1).GetKinBody('pr2').GetJoint('r_wrist_roll_joint'),		33
